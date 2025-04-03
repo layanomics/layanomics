@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Layan Essam]
+# 👋 Hi, I'm Layan Essam
 
 🧬 **Bioinformatics & Genomic Data Scientist**  
 🎓 Data Science Postgraduate Diploma with Honors  
@@ -58,9 +58,6 @@ My mission is to turn raw biological data into meaningful knowledge using **stat
   - sequence classification using SVMs and Random Forests
 - Designed for scalability and ease of experimentation.
 
-### 🧭 [Saudi Public Health & Genomics Dashboard](https://github.com/your-username/saudi-genomics-dashboard)
-- Visualizes regional health/genomics trends using public datasets.
-- Designed for insights relevant to health policy and personalized medicine in KSA.
 
 ---
 
