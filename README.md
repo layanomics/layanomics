@@ -16,21 +16,22 @@ I combined my background in biology with graduate-level studies in data science,
 
 ## 🧪 Areas of Interest
 
-- Genomic Data Science & NGS Analysis  
-- Sequence Alignment & Variant Calling  
-- Gene Expression & Transcriptomics  
-- Computational Biology & Systems Biology  
-- AI/ML Applications in Bioinformatics  
+- Bulk RNA-seq analysis (QC → DE → visualization)  
+- Reproducing published transcriptomic studies  
+- Statistical modeling of gene expression  
+- Cloud-based bioinformatics workflows (GCP)  
+- Reproducible, version-controlled scientific code  
+- CRISPR-related differential expression analysis 
 
 ---
 
 ## 🧰 Tools & Technologies
 
 **Languages:** Python, R, Bash, SQL  
-**Bioinformatics Tools:** Biopython, BEDTools, BLAST, FASTA/FASTQ, SAMtools, Ensembl REST API, NCBI Entrez  
-**NGS Pipelines:** STAR, BWA, Bowtie2, HISAT2, GATK, DESeq2 (learning)  
-**ML & Data Science:** Scikit-learn, XGBoost, Pandas, NumPy, Matplotlib, Seaborn  
-**Workflow Tools:** Snakemake, Nextflow (learning), Jupyter, Git, Docker, Linux CLI  
+**Bioinformatics Tools:** Biopython, BEDTools, BLAST, FASTA/FASTQ, SAMtools 
+**NGS Pipelines:** STAR, BWA, Bowtie2, HISAT2, GATK, DESeq2
+**ML & Data Science:** Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn  
+**Workflow Tools:** Nextflow (learning), Jupyter, Git, Docker, Linux CLI  
 
 ---
 
