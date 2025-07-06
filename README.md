@@ -1,6 +1,7 @@
 # 👩🏻‍🔬 Meet the Scientist
 
-Hi, I'm ** Layan** 
+Hi, I'm **Layan**  
+
 🧬 Bioinformatics & Genomic Data Scientist  
 
 🎓 Data Science Postgrad  
