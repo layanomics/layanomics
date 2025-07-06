@@ -1,4 +1,4 @@
-![Banner](./3.png)
+![Banner](./5.png)
 
 ## 👩🏻‍🔬 Meet the Scientist
 
