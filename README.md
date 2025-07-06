@@ -1,3 +1,5 @@
+![Banner](./banner.png)
+
 ## 👩🏻‍🔬 Meet the Scientist
 
 Hi, I'm **Layan**  
