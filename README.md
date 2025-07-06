@@ -45,18 +45,12 @@ I combined my background in biology with graduate-level studies in data science,
 
 ---
 
-## 🧬 Featured Projects
+## 🌱 Concepts in Progress
 
-
-
----
-
-## 🌱 Currently Learning
-
-- Transcriptomics & Multi-omics Integration  
+- scRNA-seq and spatial transcriptomics
+- Multi-omics Integration  
 - Deep Learning for Genomics (CNNs, RNNs with Keras/PyTorch)  
-- Building scalable workflows with Snakemake & Nextflow  
-- Working with large cohort datasets (1000 Genomes, GTEx)
+- Building scalable workflows with Nextflow  
 
 ---
 
