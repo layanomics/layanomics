@@ -25,14 +25,12 @@ I combined my background in biology with graduate-level studies in data science,
 
 ---
 
-## 🧰 Tools & Technologies
-
 ## 🔧 My Bioinformatics Toolkit
 
 <div align="center">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40" alt="R" />
-<img src="https://cdn-icons-png.flaticon.com/512/919/919837.png" width="40" alt="Bash" />
+<img src="https://img.icons8.com/plasticine/100/bash.png" width="40" alt="Bash" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" alt="GCP" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="Linux" />
