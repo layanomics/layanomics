@@ -1,10 +1,10 @@
 ## 👩🏻‍🔬 Meet the Scientist
 
 Hi, I'm **Layan**  
-🧬 Bioinformatics & Genomic Data Scientist  
-🎓 Data Science Postgraduate Student 
-🔍 Insight Miner in Gene Expression  
-📍 Jubail, Saudi Arabia
+🧬 Bioinformatics & Genomic Data Scientist     
+🎓 Data Science Postgraduate Student   
+🔍 Insight Miner in Gene Expression     
+📍 Jubail, Saudi Arabia   
 
 ---
 
