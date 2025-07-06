@@ -14,10 +14,9 @@ Hi, I'm **Layan**
 
 ## 🔬 Behind the Pipelines
 
-I’m a data scientist with a deep interest in **bioinformatics** and **genomics**, combining analytical rigor with a passion for biological discovery. With a background in data science and a strong foundation in biology-focused computing, I specialize in extracting insights from complex biological datasets such as DNA, RNA, and protein sequences.
+During my BSc in Biotechnology & Biomolecular Chemistry, somewhere between pipetting samples and my first R script that made genes speak through statistics, I discovered my path in genomic data analysis.
 
-My mission is to turn raw biological data into meaningful knowledge using **statistical models**, **machine learning**, and **bioinformatics tools**—whether it's for healthcare, genomics research, or biotech innovation.
-
+I combined my background in biology with graduate-level studies in data science, focusing on statistics and machine learning.  Now, I build pipelines and replicate published studies from raw data to publication-ready figures.  
 ---
 
 ## 🧪 Areas of Interest
