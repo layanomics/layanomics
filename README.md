@@ -1,12 +1,12 @@
-# 👋 Hi, I'm Layan Essam
-
-🧬 **Bioinformatics & Genomic Data Scientist**  
-🎓 Data Science Postgraduate Diploma with Honors  
-📍 Based in Saudi Arabia  
-
+# 👩🏻‍🔬 Meet the Scientist
+Hi, I'm ** Layan** 
+🧬 Bioinformatics & Genomic Data Scientist
+🎓 Data Science Postgrad
+🔍 Insight Miner in Gene Expression
+📍 Jubail - Saudi Arabia  
 ---
 
-## 🚀 About Me
+## 🔬 Behind the Pipelines
 
 I’m a data scientist with a deep interest in **bioinformatics** and **genomics**, combining analytical rigor with a passion for biological discovery. With a background in data science and a strong foundation in biology-focused computing, I specialize in extracting insights from complex biological datasets such as DNA, RNA, and protein sequences.
 
@@ -72,9 +72,7 @@ My mission is to turn raw biological data into meaningful knowledge using **stat
 
 ## 📫 Let’s Connect
 
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile)
-- 📧 [Your Email]
-- 🌐 [Portfolio / Personal Website]
+- 💼 [LinkedIn](https://github.com/layanomics)
 
 ---
 
