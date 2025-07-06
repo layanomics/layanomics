@@ -51,7 +51,7 @@ I combined my background in biology with graduate-level studies in data science,
 
 ## 📫 Let’s Connect
 
-- 💼 [LinkedIn](https://github.com/layanomics)
+- 💼 [LinkedIn](https://www.linkedin.com/in/layan-essam/)
 
 ---
 
