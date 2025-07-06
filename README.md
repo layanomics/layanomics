@@ -1,22 +1,18 @@
 ## 👩🏻‍🔬 Meet the Scientist
 
 Hi, I'm **Layan**  
-
 🧬 Bioinformatics & Genomic Data Scientist  
-
 🎓 Data Science Postgrad  
-
 🔍 Insight Miner in Gene Expression  
-
-📍 Jubail - Saudi Arabia
+📍 Jubail, Saudi Arabia
 
 ---
 
-### 🔬 Behind the Pipelines
+## 👩‍🔬 Behind the Pipelines
 
 During my BSc in Biotechnology & Biomolecular Chemistry, somewhere between pipetting samples and my first R script that made genes speak through statistics, I discovered my path in genomic data analysis.
-I combined my background in biology with graduate-level studies in data science, focusing on statistics and machine learning.  Now, I build pipelines and replicate published studies from raw data to publication-ready figures.  
----
+
+I combined my background in biology with graduate-level studies in data science, focusing on statistics and machine learning. Now, I build pipelines and replicate published studies — from raw data to publication-ready figures.
 
 ## 🧪 Areas of Interest
 
