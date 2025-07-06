@@ -14,7 +14,7 @@ During my BSc in Biotechnology & Biomolecular Chemistry, somewhere between pipet
 
 I combined my background in biology with graduate-level studies in data science, focusing on statistics and machine learning. Now, I build pipelines and replicate published studies — from raw data to publication-ready figures.
 
-## 🧪 Areas of Interest
+## 💡My Niche in Bioinformatics  
 
 - Bulk RNA-seq analysis (QC → DE → visualization)  
 - Reproducing published transcriptomic studies  
